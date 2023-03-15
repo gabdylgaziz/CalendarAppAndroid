@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Календарь</string>
+
+    <string name="btn_name">Планы на этот день</string>
+    <string name="btn_sec_name">Расстояние до даты</string>
+    <string name="txt_date">Выберите дату</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_saved">Сохранить</string>
+    <string name="btn_close">Назад</string>
+</resources>
